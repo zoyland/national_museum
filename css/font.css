@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'MapoGoldenPier';
+    src: url('../fonts/MapoGoldenPier.eot');
+    src: url('../fonts/MapoGoldenPier.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MapoGoldenPier.woff2') format('woff2'),
+        url('../fonts/MapoGoldenPier.woff') format('woff'),
+        url('../fonts/MapoGoldenPier.ttf') format('truetype'),
+        url('../fonts/MapoGoldenPier.svg#MapoGoldenPier') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'JSArirangPPURI';
+    src: url('../fonts/JSArirangPPURI-RegularA1.eot');
+    src: url('../fonts/JSArirangPPURI-RegularA1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JSArirangPPURI-RegularA1.woff2') format('woff2'),
+        url('../fonts/JSArirangPPURI-RegularA1.woff') format('woff'),
+        url('../fonts/JSArirangPPURI-RegularA1.ttf') format('truetype'),
+        url('../fonts/JSArirangPPURI-RegularA1.svg#JSArirangPPURI-RegularA1') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GyeonggiBatang';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+               
+
+html, body {    
+    font-family: 'Noto Sans KR', 'Malgun Gothic', Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
